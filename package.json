@@ -1,0 +1,25 @@
+{
+  "name": "react-native-hellodev",
+  "version": "1.0.5",
+  "description": "first NPM pacakge",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushi08/react-native-hellodev.git"
+  },
+  "keywords": [
+    "NPM",
+    "first",
+    "pacakge"
+  ],
+  "author": "Rushi Badheka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushi08/react-native-hellodev/issues"
+  },
+  "homepage": "https://github.com/rushi08/react-native-hellodev#readme"
+}
